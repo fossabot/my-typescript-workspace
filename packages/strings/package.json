@@ -22,7 +22,7 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "vite": "^7.2.6"
+    "vite": "^7.3.2"
   },
   "nx": {
     "tags": [
